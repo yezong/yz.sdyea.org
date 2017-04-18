@@ -1,0 +1,12 @@
+url: http://www.sdyea.org
+
+title: Zack博客
+
+keywords: Zack博客
+
+description: Zack博客
+
+relative_permalinks: false
+
+exclude:
+  - README.md
